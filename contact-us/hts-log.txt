@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Mar 2018 22:46:29 at http://8vg.aec.myftpupload.com/contact-us/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://8vg.aec.myftpupload.com/contact-us/ -O1 "C:\My Web Sites\gg" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:46:29	Warning: 	Note: due to 8vg.aec.myftpupload.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+22:46:31	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from 8vg.aec.myftpupload.com/contact-us/)
+22:46:31	Warning: 	Note: due to s.w.org remote robots.txt rules, links beginning with these path will be forbidden: /search, /support/search.php, /extend/plugins/search.php, /plugins/search.php, /extend/themes/search.php, /themes/search.php, /support/rss, /archive/ (see in the options to disable this)
+22:46:31	Warning: 	Found for s.w.org/
+22:46:31	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 8 links scanned, 3 files written (30031 bytes overall) [13819 bytes received at 6909 bytes/sec], 28738 bytes transferred using HTTP compression in 3 files, ratio 27%, 1.1 requests per connection
+(1 errors, 4 warnings, 0 messages)
